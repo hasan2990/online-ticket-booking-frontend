@@ -1,0 +1,20 @@
+.navbar {
+    position: relative;
+  }
+  
+  .form-d-flex {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 10px; 
+    //background-color: aqua;
+  }
+  .btn.btn-success {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(25, 187, 138);
+  }
+  
